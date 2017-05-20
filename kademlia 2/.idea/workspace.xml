@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/libkademlia/libkademlia.go" description="go k.IterativeFindValue(newNode, k.ShortList.Targe..." line="630" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="946aebd4-4f62-4bf6-8dd0-7a5bbdc09c28" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="kademlia" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="libkademlia.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/libkademlia/libkademlia.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1822">
+              <caret line="386" column="79" lean-forward="false" selection-start-line="386" selection-start-column="74" selection-end-line="386" selection-end-column="79" />
+              <folding>
+                <element signature="e#175#283#0" expanded="true" />
+                <element signature="n#!!block;n#getBucket#0" expanded="false" />
+                <element signature="n#!!block;n#FindContact#0" expanded="false" />
+                <element signature="e#7922#7944#0" expanded="false" />
+                <element signature="n#!!block;n#Error#1" expanded="false" />
+                <element signature="n#!!block;n#DoPing#0" expanded="false" />
+                <element signature="n#!!block;n#DoFindNode#0" expanded="false" />
+                <element signature="n#!!block;n#DoFindValue#0" expanded="false" />
+                <element signature="n#!!block;n#LocalFindValue#0" expanded="false" />
+                <element signature="e#13030#13111#0" expanded="false" />
+                <element signature="e#13174#13214#0" expanded="false" />
+                <element signature="n#!!block;n#LocalFindNode#0" expanded="false" />
+                <element signature="e#13661#13775#0" expanded="false" />
+                <element signature="n#!!block;n#IterativeCallNode#0" expanded="false" />
+                <element signature="n#!!block;n#DoIterativeFindNode#0" expanded="false" />
+                <element signature="n#!!block;n#CopySliceToShortList#0" expanded="false" />
+                <element signature="n#!!block;n#DoIterativeStore#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testing.go" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/go/1.8/libexec/src/testing/testing.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="621" column="0" lean-forward="false" selection-start-line="621" selection-start-column="0" selection-end-line="621" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panic.go" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/go/1.8/libexec/src/runtime/panic.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8445">
+              <caret line="567" column="0" lean-forward="false" selection-start-line="567" selection-start-column="0" selection-end-line="567" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="id.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/libkademlia/id.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rpcs.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/libkademlia/rpcs.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="327" column="16" lean-forward="false" selection-start-line="327" selection-start-column="18" selection-end-line="328" selection-end-column="67" />
+              <folding>
+                <element signature="e#197#214#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project2_test.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/libkademlia/project2_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2146">
+              <caret line="293" column="9" lean-forward="true" selection-start-line="293" selection-start-column="9" selection-end-line="293" selection-end-column="9" />
+              <folding>
+                <element signature="e#22#76#0" expanded="true" />
+                <element signature="n#!!block;n#TestIterativeFindNode3#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="proj11_test.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/libkademlia/proj11_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="55" column="53" lean-forward="false" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="44" />
+              <folding>
+                <element signature="e#21#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routingtable.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/libkademlia/routingtable.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1395">
+              <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+              <folding>
+                <element signature="e#65#145#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kademlia.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kademlia/kademlia.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4665">
+              <caret line="326" column="17" lean-forward="false" selection-start-line="326" selection-start-column="17" selection-end-line="326" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nonac</find>
+      <find>vContact</find>
+      <find>sContact</find>
+      <find>NodeToCall</find>
+      <find>expand</find>
+      <find>closestNodeChange</find>
+      <find>ContactUpdateChan</find>
+      <find>iterativeFindResChan</find>
+      <find>3</find>
+      <find>print</find>
+      <find>selfContact</find>
+      <find>contactsVisited</find>
+      <find>fuck</find>
+      <find>ExpandShortList</find>
+      <find>sort</find>
+      <find>TakeActiveListChanOut</find>
+      <find>TakeActiveListChanO</find>
+      <find>NonactiveList</find>
+      <find>resContact</find>
+      <find>no more</find>
+      <find>doping</find>
+      <find>TakeShortListChanIn</find>
+      <find>vconta</find>
+      <find>NodeID</find>
+      <find>[0/0]0x0</find>
+      <find>TakeCountNoNodeInChan</find>
+      <find>TakeItChanOut</find>
+      <find>see</find>
+      <find>ClosestNode</find>
+      <find>error</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/libkademlia/id.go" />
+        <option value="$PROJECT_DIR$/src/libkademlia/proj1_test.go" />
+        <option value="$PROJECT_DIR$/src/libkademlia/routingtable.go" />
+        <option value="$PROJECT_DIR$/src/kademlia/kademlia.go" />
+        <option value="$PROJECT_DIR$/src/libkademlia/iterate.go" />
+        <option value="$PROJECT_DIR$/src/libkademlia/proj11_test.go" />
+        <option value="$PROJECT_DIR$/src/libkademlia/proj2_test.go" />
+        <option value="$PROJECT_DIR$/src/libkademlia/rpcs.go" />
+        <option value="$PROJECT_DIR$/src/libkademlia/project2_test.go" />
+        <option value="$PROJECT_DIR$/src/libkademlia/libkademlia.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="109" />
+    <option name="y" value="23" />
+    <option name="width" value="1232" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kademlia 2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kademlia 2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kademlia 2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kademlia 2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kademlia 2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kademlia 2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libkademlia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="gogland.project.structure" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestIterativeFindValue in project2_test.go">
+    <configuration default="false" name="TestIterativeFindNode1 in proj2_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="kademlia" />
+      <working_directory value="$PROJECT_DIR$/src/libkademlia" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="libkademlia" />
+      <pattern value="^TestIterativeFindNode1$" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestIterativeFindNode3 in project2_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="kademlia" />
+      <working_directory value="$PROJECT_DIR$/src/libkademlia" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="libkademlia" />
+      <pattern value="^TestIterativeFindNode3$" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestIterativeFindNode2 in project2_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="kademlia" />
+      <working_directory value="$PROJECT_DIR$/src/libkademlia" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="libkademlia" />
+      <pattern value="^TestIterativeFindNode2$" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestIterativeStroeValue in project2_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="kademlia" />
+      <working_directory value="$PROJECT_DIR$/src/libkademlia" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="libkademlia" />
+      <pattern value="^TestIterativeStroeValue$" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestIterativeFindValue in project2_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="kademlia" />
+      <working_directory value="$PROJECT_DIR$/src/libkademlia" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="libkademlia" />
+      <pattern value="^TestIterativeFindValue$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="kademlia" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <filePath value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="kademlia" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="kademlia" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Go Test.TestIterativeFindNode1 in proj2_test.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Test.TestIterativeFindNode3 in project2_test.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Test.TestIterativeFindNode2 in project2_test.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Test.TestIterativeStroeValue in project2_test.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Test.TestIterativeFindValue in project2_test.go" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Go Test.TestIterativeFindValue in project2_test.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Test.TestIterativeStroeValue in project2_test.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Test.TestIterativeFindNode3 in project2_test.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Test.TestIterativeFindNode2 in project2_test.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Test.TestIterativeFindNode1 in proj2_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestIterativeFindValue_in_project2_test_go - 2017.05.19 at 18h 57m 52s.xml">
+      <configuration name="TestIterativeFindValue in project2_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIterativeFindValue_in_project2_test_go - 2017.05.19 at 19h 00m 01s.xml">
+      <configuration name="TestIterativeFindValue in project2_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIterativeFindValue_in_project2_test_go - 2017.05.19 at 19h 00m 24s.xml">
+      <configuration name="TestIterativeFindValue in project2_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIterativeFindValue_in_project2_test_go - 2017.05.19 at 19h 01m 16s.xml">
+      <configuration name="TestIterativeFindValue in project2_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIterativeFindValue_in_project2_test_go - 2017.05.19 at 19h 01m 36s.xml">
+      <configuration name="TestIterativeFindValue in project2_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIterativeFindValue_in_project2_test_go - 2017.05.19 at 19h 02m 05s.xml">
+      <configuration name="TestIterativeFindValue in project2_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIterativeFindValue_in_project2_test_go - 2017.05.19 at 19h 02m 36s.xml">
+      <configuration name="TestIterativeFindValue in project2_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIterativeFindValue_in_project2_test_go - 2017.05.19 at 19h 04m 08s.xml">
+      <configuration name="TestIterativeFindValue in project2_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIterativeFindValue_in_project2_test_go - 2017.05.19 at 19h 06m 00s.xml">
+      <configuration name="TestIterativeFindValue in project2_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIterativeFindValue_in_project2_test_go - 2017.05.19 at 19h 41m 32s.xml">
+      <configuration name="TestIterativeFindValue in project2_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="109" y="23" width="1232" height="873" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22483766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.50401837" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2549751" sideWeight="0.49598163" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30597016" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.50401837" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28109452" sideWeight="0.49598163" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22483766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33706468" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="120" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/kademlia/kademlia.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/proj1_test.go" />
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/libkademlia.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#283#0" expanded="true" />
+            <element signature="n#!!block;n#getBucket#0" expanded="false" />
+            <element signature="n#!!block;n#FindContact#0" expanded="false" />
+            <element signature="e#7922#7944#0" expanded="false" />
+            <element signature="n#!!block;n#Error#1" expanded="false" />
+            <element signature="n#!!block;n#DoPing#0" expanded="false" />
+            <element signature="n#!!block;n#DoFindNode#0" expanded="false" />
+            <element signature="n#!!block;n#DoFindValue#0" expanded="false" />
+            <element signature="n#!!block;n#LocalFindValue#0" expanded="false" />
+            <element signature="e#13030#13111#0" expanded="false" />
+            <element signature="e#13174#13214#0" expanded="false" />
+            <element signature="n#!!block;n#LocalFindNode#0" expanded="false" />
+            <element signature="e#13661#13775#0" expanded="false" />
+            <element signature="n#!!block;n#IterativeCallNode#0" expanded="false" />
+            <element signature="n#!!block;n#DoIterativeFindNode#0" expanded="false" />
+            <element signature="n#!!block;n#CopySliceToShortList#0" expanded="false" />
+            <element signature="n#!!block;n#DoIterativeStore#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/id.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/routingtable.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2175">
+          <caret line="149" column="0" lean-forward="false" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+          <folding>
+            <element signature="e#65#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/rpcs.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#197#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kademlia/kademlia.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/libkademlia.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#283#0" expanded="true" />
+            <element signature="n#!!block;n#getBucket#0" expanded="false" />
+            <element signature="n#!!block;n#FindContact#0" expanded="false" />
+            <element signature="e#7922#7944#0" expanded="false" />
+            <element signature="n#!!block;n#Error#1" expanded="false" />
+            <element signature="n#!!block;n#DoPing#0" expanded="false" />
+            <element signature="n#!!block;n#DoFindNode#0" expanded="false" />
+            <element signature="n#!!block;n#DoFindValue#0" expanded="false" />
+            <element signature="n#!!block;n#LocalFindValue#0" expanded="false" />
+            <element signature="e#13030#13111#0" expanded="false" />
+            <element signature="e#13174#13214#0" expanded="false" />
+            <element signature="n#!!block;n#LocalFindNode#0" expanded="false" />
+            <element signature="e#13661#13775#0" expanded="false" />
+            <element signature="n#!!block;n#IterativeCallNode#0" expanded="false" />
+            <element signature="n#!!block;n#DoIterativeFindNode#0" expanded="false" />
+            <element signature="n#!!block;n#CopySliceToShortList#0" expanded="false" />
+            <element signature="n#!!block;n#DoIterativeStore#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/id.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/routingtable.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2175">
+          <caret line="149" column="0" lean-forward="false" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+          <folding>
+            <element signature="e#65#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/rpcs.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#197#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kademlia/kademlia.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/proj1_test.go" />
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/libkademlia.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#283#0" expanded="true" />
+            <element signature="n#!!block;n#getBucket#0" expanded="false" />
+            <element signature="n#!!block;n#FindContact#0" expanded="false" />
+            <element signature="e#7922#7944#0" expanded="false" />
+            <element signature="n#!!block;n#Error#1" expanded="false" />
+            <element signature="n#!!block;n#DoPing#0" expanded="false" />
+            <element signature="n#!!block;n#DoFindNode#0" expanded="false" />
+            <element signature="n#!!block;n#DoFindValue#0" expanded="false" />
+            <element signature="n#!!block;n#LocalFindValue#0" expanded="false" />
+            <element signature="e#13030#13111#0" expanded="false" />
+            <element signature="e#13174#13214#0" expanded="false" />
+            <element signature="n#!!block;n#LocalFindNode#0" expanded="false" />
+            <element signature="e#13661#13775#0" expanded="false" />
+            <element signature="n#!!block;n#IterativeCallNode#0" expanded="false" />
+            <element signature="n#!!block;n#DoIterativeFindNode#0" expanded="false" />
+            <element signature="n#!!block;n#CopySliceToShortList#0" expanded="false" />
+            <element signature="n#!!block;n#DoIterativeStore#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/id.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/routingtable.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2235">
+          <caret line="149" column="0" lean-forward="false" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+          <folding>
+            <element signature="e#65#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/container/list/list.go" />
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/rpcs.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#197#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kademlia/kademlia.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/proj1_test.go" />
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/libkademlia.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="213" column="20" lean-forward="false" selection-start-line="213" selection-start-column="20" selection-end-line="213" selection-end-column="20" />
+          <folding>
+            <element signature="e#175#283#0" expanded="true" />
+            <element signature="n#!!block;n#getBucket#0" expanded="false" />
+            <element signature="n#!!block;n#FindContact#0" expanded="false" />
+            <element signature="e#7922#7944#0" expanded="false" />
+            <element signature="n#!!block;n#Error#1" expanded="false" />
+            <element signature="n#!!block;n#DoPing#0" expanded="false" />
+            <element signature="n#!!block;n#DoFindNode#0" expanded="false" />
+            <element signature="n#!!block;n#DoFindValue#0" expanded="false" />
+            <element signature="n#!!block;n#LocalFindValue#0" expanded="false" />
+            <element signature="e#13030#13111#0" expanded="false" />
+            <element signature="e#13174#13214#0" expanded="false" />
+            <element signature="n#!!block;n#LocalFindNode#0" expanded="false" />
+            <element signature="e#13661#13775#0" expanded="false" />
+            <element signature="n#!!block;n#IterativeCallNode#0" expanded="false" />
+            <element signature="n#!!block;n#DoIterativeFindNode#0" expanded="false" />
+            <element signature="n#!!block;n#CopySliceToShortList#0" expanded="false" />
+            <element signature="n#!!block;n#DoIterativeStore#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/routingtable.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="42" lean-forward="false" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+          <folding>
+            <element signature="e#65#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/rpcs.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="77" column="1" lean-forward="true" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+          <folding>
+            <element signature="e#197#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kademlia/kademlia.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/reflect/value.go" />
+    <entry file="file:///usr/local/go/src/runtime/panic.go" />
+    <entry file="file:///usr/local/go/src/fmt/print.go" />
+    <entry file="file:///usr/local/go/src/net/rpc/client.go" />
+    <entry file="file:///usr/local/go/src/net/tcpsock.go" />
+    <entry file="file:///usr/local/go/src/net/lookup.go" />
+    <entry file="file:///usr/local/go/src/net/ipsock.go" />
+    <entry file="file:///usr/local/go/src/strconv/atoi.go" />
+    <entry file="file:///usr/local/go/src/container/list/list.go" />
+    <entry file="file:///usr/local/go/src/net/ip.go" />
+    <entry file="file:///usr/local/go/src/runtime/asm_amd64.s" />
+    <entry file="file:///usr/local/go/src/testing/testing.go" />
+    <entry file="file:///usr/local/go/src/net/rpc/server.go" />
+    <entry file="file:///usr/local/go/src/strconv/itoa.go" />
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/vanish.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/proj1_test.go" />
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/iterate.go" />
+    <entry file="file://$PROJECT_DIR$/src/kademlia/kademlia.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4665">
+          <caret line="326" column="17" lean-forward="false" selection-start-line="326" selection-start-column="17" selection-end-line="326" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/proj2_test.go" />
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/proj11_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="53" lean-forward="false" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="44" />
+          <folding>
+            <element signature="e#21#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/routingtable.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding>
+            <element signature="e#65#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/id.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.8/libexec/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8445">
+          <caret line="567" column="0" lean-forward="false" selection-start-line="567" selection-start-column="0" selection-end-line="567" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.8/libexec/src/testing/testing.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="621" column="0" lean-forward="false" selection-start-line="621" selection-start-column="0" selection-end-line="621" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/project2_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2146">
+          <caret line="293" column="9" lean-forward="true" selection-start-line="293" selection-start-column="9" selection-end-line="293" selection-end-column="9" />
+          <folding>
+            <element signature="e#22#76#0" expanded="true" />
+            <element signature="n#!!block;n#TestIterativeFindNode3#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/rpcs.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="327" column="16" lean-forward="false" selection-start-line="327" selection-start-column="18" selection-end-line="328" selection-end-column="67" />
+          <folding>
+            <element signature="e#197#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libkademlia/libkademlia.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1822">
+          <caret line="386" column="79" lean-forward="false" selection-start-line="386" selection-start-column="74" selection-end-line="386" selection-end-column="79" />
+          <folding>
+            <element signature="e#175#283#0" expanded="true" />
+            <element signature="n#!!block;n#getBucket#0" expanded="false" />
+            <element signature="n#!!block;n#FindContact#0" expanded="false" />
+            <element signature="e#7922#7944#0" expanded="false" />
+            <element signature="n#!!block;n#Error#1" expanded="false" />
+            <element signature="n#!!block;n#DoPing#0" expanded="false" />
+            <element signature="n#!!block;n#DoFindNode#0" expanded="false" />
+            <element signature="n#!!block;n#DoFindValue#0" expanded="false" />
+            <element signature="n#!!block;n#LocalFindValue#0" expanded="false" />
+            <element signature="e#13030#13111#0" expanded="false" />
+            <element signature="e#13174#13214#0" expanded="false" />
+            <element signature="n#!!block;n#LocalFindNode#0" expanded="false" />
+            <element signature="e#13661#13775#0" expanded="false" />
+            <element signature="n#!!block;n#IterativeCallNode#0" expanded="false" />
+            <element signature="n#!!block;n#DoIterativeFindNode#0" expanded="false" />
+            <element signature="n#!!block;n#CopySliceToShortList#0" expanded="false" />
+            <element signature="n#!!block;n#DoIterativeStore#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
