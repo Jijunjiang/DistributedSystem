@@ -1,0 +1,33 @@
+EXTRACREDIT_proj3
+
+ATTENTION:
+There is a small fault in decrypt function, the ciphertext is manipulated after decrypt, resulting in changing of C in vdo, if we use vdo.C as input. We modified the decrypt function to create hard copy of C then decrypt with the copy to make sure original C invariant。
+
+CAUTION (PLEASE READ):
+1. The TimeoutSeconds, Refreshing Epoch and Time Offset of refreshing are set constant in our program. Here, as mentioned in Vanish Paper, refreshing happens  a little time earlier than epoch point, so time offset defines how long would this interval be.
+2. TimeoutSecond is located at the top of kademlia.go
+3. Epoch and Time Offset are located at the top of libkademlia.go
+4. WARNING!!!Since refreshing take relatively long time, please set epoch long enough and make sure enough time betweetn two Unvanish operations.
+5. To test Vanish and Unvanish without timeout, please set timeout and epoch really long, e.g. we set for default: 3600 * 8 seconds = 8 hours.
+6. Vanish during time offset would cause trouble in calculating shared keys’s location, since the epoch index has changes in the same time period. To avoid this situation, if no shared keys can be found using current epoch index, the previous epoch index will be used to make sure shares can be found.
+
+Network structure in test cases:
+1. One root node connected to three sub-nodes
+2. Every sub-node is connected to 20 leaf nodes.
+
+Test case 1: TestVanishData2
+1. Run Vanish on root node to check if VDO is created
+
+Test case 2: TestVanishData3
+1. Run Vanish on root node then Unvanish to check if the data is correctly encrypted and decrypted
+
+Test case 3: TestUnvanish
+1. Two nodes, node1 and node2
+2. Run Vanish on node1
+3. Run Unvanish on node1 to check the correctness of result
+4. Run Unvanish on node2 to check the correctness of result
+
+Test case 4: TestTimeout
+1. Run Vanish on root node
+2. Run three Unvanish operations with interval of epoch to check if refreshing is conducted and correctness of refreshing results.
+
