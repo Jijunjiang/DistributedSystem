@@ -1,6 +1,13 @@
 ************
 * BUILDING *
 ************
+Reference Paper:
+    https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf
+    http://vanish.cs.washington.edu/pubs/usenixsec09-geambasu.pdf
+    
+    
+    
+    
 
 Go's build tools depend on the value of the GOPATH environment variable. $GOPATH
 should be the project root: the absolute path of the directory containing
